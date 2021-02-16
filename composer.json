@@ -1,0 +1,23 @@
+{
+    "name": "root/app",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Alexander Lukoyanov",
+            "email": "sunnext021999@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0",
+        "bower-asset/jquery": "3.2.*@stable"
+    },
+    "require-dev": {
+        "yiisoft/yii2-debug": "~2.0.0"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+}
